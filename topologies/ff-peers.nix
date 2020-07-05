@@ -2,6 +2,11 @@
 # evenly split across all IOHK FF relays.
 # Pull-requests against this file will be merged and deployed once a day.
 [
+	{ 
+	operator = "BTS_KPOP_Relay02";
+	addr = "kanjijin.iptime.org";
+	port = 3002;         
+	} 
   {
     operator = "disassembler";
     addr = "prophet.samleathers.com";
